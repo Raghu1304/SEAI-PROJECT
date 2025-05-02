@@ -43,8 +43,6 @@ This project utilizes Google's Gemini AI to perform advanced analysis on medical
 - Wait for the analysis to complete.
 - Review the generated reports, recommendations, and treatment suggestions.
 
-## Contributors
-- **Dipesh Kumar** - Lead Developer
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
